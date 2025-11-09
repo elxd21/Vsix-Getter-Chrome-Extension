@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "VSIX Downloader",
+  "description": "Download easily VSCode extensions formatted .vsix from the Marketplace.",
+  "version": "1.0",
+  "icons": {
+    "16": "assets/logo-16.ico",   
+    "48": "assets/logo-48.ico",   
+    "128": "assets/logo-128.ico",
+    "256": "assets/logo-256.ico"   
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "assets/logo-16.ico",
+      "48": "assets/logo-48.ico",
+      "128": "assets/logo-128.ico",
+      "256": "assets/logo-256.ico"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://marketplace.visualstudio.com/items?*"],
+      "js": ["download.js"]
+    }
+  ],
+  "host_permissions": [
+    "https://*/*",
+    "http://*/*"
+  ]
+  
+}
